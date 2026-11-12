@@ -39,7 +39,7 @@
     <circle class="node n3" cx="70" cy="0" r="7"/><circle class="node n4" cx="70" cy="70" r="7"/>
     <circle class="node n5" cx="70" cy="140" r="7"/><circle class="node n3" cx="140" cy="70" r="9"/>
   </g>
-  <text x="48" y="86" class="name">Kaio Wellington</text>
+  <text x="48" y="86" class="name">Kaio Wellinghton</text>
   <text x="50" y="122" class="role">ENGENHEIRO DE IA · RAG · AGENTES · MLOPS</text>
   <rect x="48" y="146" width="560" height="44" rx="10" fill="#0B1E33" fill-opacity=".55"/>
   <text x="64" y="174" class="prompt">&gt;</text>
