@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Experiência na Dataprev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1E33"/>
+      <stop offset="0.55" stop-color="#123B5C"/>
+      <stop offset="1" stop-color="#1B6F8F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EE1C9"/>
+      <stop offset="1" stop-color="#4FA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="210" rx="16" fill="url(#bg)"/>
+  <line x1="44" y1="40" x2="44" y2="186" stroke="#5EE1C9" stroke-opacity=".35" stroke-width="2"/>
+  <circle cx="44" cy="40" r="9" fill="#5EE1C9"/>
+  <text x="68" y="46" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" >Dataprev</text>
+  <text x="170" y="46" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="500" fill="#CFE8F5" >Estagiário de Ciência de Dados e IA</text>
+  <text x="876" y="46" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="url(#accent)" text-anchor="end" letter-spacing="1">OUT/2025 – OUT/2026</text>
+  <circle cx="74" cy="81" r="3" fill="#5EE1C9"/>
+  <text x="88" y="86" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#CFE8F5" >Pipelines de extração e estruturação de documentos oficiais (RG, CNH)</text>
+  <circle cx="74" cy="109" r="3" fill="#5EE1C9"/>
+  <text x="88" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#CFE8F5" >API com VLMs para identificar riscos em canteiros de obras e sugerir mitigação</text>
+  <circle cx="74" cy="137" r="3" fill="#5EE1C9"/>
+  <text x="88" y="142" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#CFE8F5" >BERTopic em documentos jurídicos e sumarização com Llama 70B</text>
+  <circle cx="74" cy="165" r="3" fill="#5EE1C9"/>
+  <text x="88" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#CFE8F5" >Dashboards de avaliação de qualidade, Python, SQL e Docker</text>
+</svg>

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Aberto%20a-AI%20Engineer%20%C2%B7%20MLOps%20%C2%B7%20Data%20Science-5EE1C9?style=for-the-badge" alt="Aberto a vagas de AI Engineer, MLOps e Data Science">
 </p>
 
-### 👋 Olá, eu sou o Kaio
+<img src="assets/secao-sobre.svg" alt="Sobre mim" width="100%">
 
 Gosto de pegar um problema real e levar a IA até onde ela é útil de verdade: com dados, métricas e código que roda fora do notebook. Na **Dataprev**, trabalhei com LLMs e VLMs para extrair informações de documentos oficiais e apoiar decisões no setor público. Nos meus projetos, construo sistemas RAG avaliados com métricas de recuperação e agentes com tool calling e guardrails.
 
@@ -23,29 +23,30 @@ kaio = {
 }
 ```
 
----
+<img src="assets/secao-projetos.svg" alt="Projetos em destaque" width="100%">
 
-### 🔭 Projetos em destaque
+<p align="center">
+  <a href="https://github.com/kaio-w-b/lia-customer-service-agent"><img src="assets/card-lia.svg" alt="Lia: agente de atendimento com tool calling, 17 de 18 cenários" width="49%"></a>
+  <a href="https://github.com/kaio-w-b/EixoAi"><img src="assets/card-eixoai.svg" alt="EixoAI: RAG sobre a Constituição, Hit Rate 79%" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kaio-w-b/ChurnShield"><img src="assets/card-churnshield.svg" alt="ChurnShield: predição de churn com SHAP e FastAPI" width="49%"></a>
+  <a href="https://github.com/joaopviana2004-tech/Haxball_Genetic_Agent"><img src="assets/card-haxball.svg" alt="Haxball Agent: rede neural com algoritmo genético" width="49%"></a>
+</p>
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**Lia, agente de atendimento**](https://github.com/kaio-w-b/lia-customer-service-agent) | Desafio técnico de AI Engineer: agente com tool calling para uma loja de instrumentos: 8 ferramentas, guardrail determinístico contra preços inventados e avaliação em **17 de 18 cenários** com o modelo real | Groq (gpt-oss-120b), Python, Streamlit, Pytest; LangGraph e busca híbrida comparados |
-| [**EixoAI**](https://github.com/kaio-w-b/EixoAi) | RAG sobre a Constituição Federal com avaliação da recuperação: **Hit Rate 79%, MRR 0,65, NDCG 0,68** em 48 perguntas próprias | Sentence Transformers (e5), ChromaDB, Llama 3.3 via Groq, Gradio |
-| [**ChurnShield**](https://github.com/kaio-w-b/ChurnShield) | Predição de churn de ponta a ponta: EDA, boosting, explicabilidade com SHAP e API de predição | Scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, FastAPI, Docker |
-| [**Haxball Genetic Agent**](https://github.com/joaopviana2004-tech/Haxball_Genetic_Agent) | Agente de Haxball com rede neural treinada por algoritmo genético e por aprendizado supervisionado (colaboração) | Python, Pygame |
+<img src="assets/secao-experiencia.svg" alt="Experiência" width="100%">
 
-### 💼 Na Dataprev (out/2025 a out/2026)
+<img src="assets/experiencia.svg" alt="Dataprev, estagiário de Ciência de Dados e IA, out/2025 a out/2026: extração de documentos oficiais, API com VLMs, BERTopic e sumarização com Llama 70B" width="100%">
 
-- Pipelines de extração e estruturação de informações de documentos oficiais (RG, CNH)
-- API com VLMs para identificar riscos em canteiros de obras e sugerir mitigação
-- BERTopic para tópicos em documentos jurídicos e sumarização com Llama 70B
+<img src="assets/secao-stack.svg" alt="Stack" width="100%">
 
-### 🛠️ Stack
+<img src="assets/stack.svg" alt="Stack: LLMs, agentes, RAG, ChromaDB, Python, Scikit-learn, XGBoost, FastAPI, Docker, SQL, AWS" width="100%">
 
-**IA generativa:** LLMs · agentes e tool calling · RAG · embeddings · ChromaDB · Sentence Transformers · BERTopic · VLMs
-**Machine Learning:** Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · SHAP
-**Engenharia e MLOps:** FastAPI · Docker · SQL · Git · Gradio · AWS (Cloud Practitioner)
+<br>
 
-### 📫 Contato
+<img src="assets/rodape.svg" alt="Vamos conversar? Aberto a vagas de AI Engineer, MLOps e Cientista de Dados" width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/kaiowellinghton) · kaiowellinghton@gmail.com · João Pessoa, PB
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaiowellinghton"><img src="https://img.shields.io/badge/LinkedIn-kaiowellinghton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kaiowellinghton@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>

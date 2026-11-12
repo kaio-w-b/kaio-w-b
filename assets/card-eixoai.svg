@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="250" viewBox="0 0 440 250" role="img" aria-label="EixoAI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1E33"/>
+      <stop offset="0.55" stop-color="#123B5C"/>
+      <stop offset="1" stop-color="#1B6F8F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EE1C9"/>
+      <stop offset="1" stop-color="#4FA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="250" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="438" height="248" rx="15" fill="none" stroke="#5EE1C9" stroke-opacity=".25"/>
+  <text x="24" y="44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" >EixoAI</text>
+  <text x="24" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="url(#accent)" letter-spacing="1">RAG SOBRE A CONSTITUIÇÃO FEDERAL</text>
+  <text x="24" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#CFE8F5" >Perguntas e respostas sobre a CF/88 com busca</text>
+  <text x="24" y="119" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#CFE8F5" >semântica e avaliação da recuperação em 48</text>
+  <text x="24" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#CFE8F5" >perguntas próprias.</text>
+  <rect x="24" y="155" width="392" height="30" rx="8" fill="#0B1E33" fill-opacity=".55"/>
+  <text x="36" y="175" font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="13" font-weight="500" fill="#5EE1C9" >&gt; Hit Rate 79% · MRR 0,65 · NDCG 0,68</text>
+  <rect x="24" y="204" width="107" height="26" rx="13" fill="#5EE1C9" fill-opacity=".12" stroke="#5EE1C9" stroke-opacity=".45"/>
+  <text x="35" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#CFE8F5" >e5 embeddings</text>
+  <rect x="137" y="204" width="78" height="26" rx="13" fill="#5EE1C9" fill-opacity=".12" stroke="#5EE1C9" stroke-opacity=".45"/>
+  <text x="148" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#CFE8F5" >ChromaDB</text>
+  <rect x="221" y="204" width="80" height="26" rx="13" fill="#5EE1C9" fill-opacity=".12" stroke="#5EE1C9" stroke-opacity=".45"/>
+  <text x="232" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#CFE8F5" >Llama 3.3</text>
+  <rect x="307" y="204" width="57" height="26" rx="13" fill="#5EE1C9" fill-opacity=".12" stroke="#5EE1C9" stroke-opacity=".45"/>
+  <text x="318" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#CFE8F5" >Gradio</text>
+</svg>
