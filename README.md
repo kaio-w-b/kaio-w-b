@@ -1,10 +1,27 @@
-# Olá, eu sou o Kaio 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Kaio Wellington, Engenheiro de IA: RAG, agentes e MLOps" width="100%">
+</p>
 
-**Engenheiro de IA em formação** · Ciência de Dados e IA na UFPB · Estagiário de Ciência de Dados e IA na **Dataprev**
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaiowellinghton"><img src="https://img.shields.io/badge/LinkedIn-kaiowellinghton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kaiowellinghton@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Aberto%20a-AI%20Engineer%20%C2%B7%20MLOps%20%C2%B7%20Data%20Science-5EE1C9?style=for-the-badge" alt="Aberto a vagas de AI Engineer, MLOps e Data Science">
+</p>
 
-Construo aplicações de IA generativa que saem do notebook: sistemas RAG avaliados com métricas, APIs de inferência e pipelines de dados. Hoje trabalho com LLMs e VLMs aplicados a documentos oficiais e jurídicos no setor público.
+### 👋 Olá, eu sou o Kaio
 
-🎯 Buscando oportunidades como **AI Engineer, MLOps ou Cientista de Dados** (início a partir de 2027)
+Gosto de pegar um problema real e levar a IA até onde ela é útil de verdade: com dados, métricas e código que roda fora do notebook. Na **Dataprev**, trabalho com LLMs e VLMs para extrair informações de documentos oficiais e apoiar decisões no setor público. Nos meus projetos, construo sistemas RAG avaliados com métricas de recuperação e agentes com tool calling e guardrails.
+
+```python
+kaio = {
+    "agora":      "Estagiário de Ciência de Dados e IA @ Dataprev",
+    "formação":   "Ciência de Dados e IA @ UFPB (conclusão em dez/2026)",
+    "foco":       ["RAG", "agentes e tool calling", "avaliação de LLMs", "MLOps"],
+    "procurando": ["AI Engineer", "MLOps Engineer", "Cientista de Dados"],
+    "base":       "João Pessoa, PB 🇧🇷",
+    "idiomas":    {"português": "nativo", "inglês": "B2"},
+}
+```
 
 ---
 

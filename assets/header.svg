@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Kaio Wellington, Engenheiro de IA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1E33"/>
+      <stop offset="0.55" stop-color="#123B5C"/>
+      <stop offset="1" stop-color="#1B6F8F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EE1C9"/>
+      <stop offset="1" stop-color="#4FA8FF"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 46px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+      .role { font: 600 19px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: url(#accent); letter-spacing: 1px; }
+      .line { font: 500 17px 'Fira Code', Consolas, 'Courier New', monospace; fill: #CFE8F5; opacity: 0; }
+      .prompt { font: 500 17px 'Fira Code', Consolas, 'Courier New', monospace; fill: #5EE1C9; }
+      .l1 { animation: cycle 12s infinite 0s; }
+      .l2 { animation: cycle 12s infinite 3s; }
+      .l3 { animation: cycle 12s infinite 6s; }
+      .l4 { animation: cycle 12s infinite 9s; }
+      @keyframes cycle { 0% {opacity:0} 3% {opacity:1} 22% {opacity:1} 25% {opacity:0} 100% {opacity:0} }
+      .node { fill: #5EE1C9; animation: pulse 3s ease-in-out infinite; }
+      .n2 { animation-delay: .6s } .n3 { animation-delay: 1.2s } .n4 { animation-delay: 1.8s } .n5 { animation-delay: 2.4s }
+      @keyframes pulse { 0%,100% {opacity:.35} 50% {opacity:1} }
+      .edge { stroke: #5EE1C9; stroke-opacity: .35; stroke-width: 1.5; }
+      .cursor { fill: #5EE1C9; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+    </style>
+  </defs>
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <!-- rede neural estilizada -->
+  <g transform="translate(700 50)">
+    <line class="edge" x1="0" y1="20" x2="70" y2="0"/><line class="edge" x1="0" y1="20" x2="70" y2="70"/>
+    <line class="edge" x1="0" y1="100" x2="70" y2="70"/><line class="edge" x1="0" y1="100" x2="70" y2="140"/>
+    <line class="edge" x1="0" y1="20" x2="70" y2="140"/><line class="edge" x1="0" y1="100" x2="70" y2="0"/>
+    <line class="edge" x1="70" y1="0" x2="140" y2="70"/><line class="edge" x1="70" y1="70" x2="140" y2="70"/>
+    <line class="edge" x1="70" y1="140" x2="140" y2="70"/>
+    <circle class="node" cx="0" cy="20" r="7"/><circle class="node n2" cx="0" cy="100" r="7"/>
+    <circle class="node n3" cx="70" cy="0" r="7"/><circle class="node n4" cx="70" cy="70" r="7"/>
+    <circle class="node n5" cx="70" cy="140" r="7"/><circle class="node n3" cx="140" cy="70" r="9"/>
+  </g>
+  <text x="48" y="86" class="name">Kaio Wellington</text>
+  <text x="50" y="122" class="role">ENGENHEIRO DE IA · RAG · AGENTES · MLOPS</text>
+  <rect x="48" y="146" width="560" height="44" rx="10" fill="#0B1E33" fill-opacity=".55"/>
+  <text x="64" y="174" class="prompt">&gt;</text>
+  <text x="86" y="174" class="line l1">construo IA generativa que sai do notebook</text>
+  <text x="86" y="174" class="line l2">RAG avaliado com Hit Rate, MRR e NDCG</text>
+  <text x="86" y="174" class="line l3">agentes com tool calling e guardrails</text>
+  <text x="86" y="174" class="line l4">LLMs e VLMs no setor público @ Dataprev</text>
+  <rect x="590" y="160" width="9" height="18" class="cursor"/>
+  <text x="50" y="220" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#9FC3D9">João Pessoa, PB · UFPB · Dataprev</text>
+</svg>
