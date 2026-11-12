@@ -12,6 +12,7 @@ Construo aplicações de IA generativa que saem do notebook: sistemas RAG avalia
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**Lia, agente de atendimento**](https://github.com/kaio-w-b/lia-customer-service-agent) | Agente com tool calling para uma loja de instrumentos: 8 ferramentas, guardrail determinístico contra preços inventados e avaliação em **17 de 18 cenários** com o modelo real | Groq (gpt-oss-120b), Python, Streamlit, Pytest; LangGraph e busca híbrida comparados |
 | [**EixoAI**](https://github.com/kaio-w-b/EixoAi) | RAG sobre a Constituição Federal com avaliação da recuperação: **Hit Rate 79%, MRR 0,65, NDCG 0,68** em 48 perguntas próprias | Sentence Transformers (e5), ChromaDB, Llama 3.3 via Groq, Gradio |
 | [**ChurnShield**](https://github.com/kaio-w-b/ChurnShield) | Predição de churn de ponta a ponta: EDA, boosting, explicabilidade com SHAP e API de predição | Scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, FastAPI, Docker |
 | [**Haxball Genetic Agent**](https://github.com/joaopviana2004-tech/Haxball_Genetic_Agent) | Agente de Haxball com rede neural treinada por algoritmo genético e por aprendizado supervisionado (colaboração) | Python, Pygame |
@@ -24,7 +25,7 @@ Construo aplicações de IA generativa que saem do notebook: sistemas RAG avalia
 
 ### 🛠️ Stack
 
-**IA generativa:** LLMs · RAG · embeddings · ChromaDB · Sentence Transformers · BERTopic · VLMs
+**IA generativa:** LLMs · agentes e tool calling · RAG · embeddings · ChromaDB · Sentence Transformers · BERTopic · VLMs
 **Machine Learning:** Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · SHAP
 **Engenharia e MLOps:** FastAPI · Docker · SQL · Git · Gradio · AWS (Cloud Practitioner)
 
