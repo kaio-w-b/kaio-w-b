@@ -46,7 +46,7 @@
   <text x="86" y="174" class="line l1">construo IA generativa que sai do notebook</text>
   <text x="86" y="174" class="line l2">RAG avaliado com Hit Rate, MRR e NDCG</text>
   <text x="86" y="174" class="line l3">agentes com tool calling e guardrails</text>
-  <text x="86" y="174" class="line l4">LLMs e VLMs no setor público @ Dataprev</text>
+  <text x="86" y="174" class="line l4">LLMs e VLMs aplicados a documentos reais</text>
   <rect x="590" y="160" width="9" height="18" class="cursor"/>
-  <text x="50" y="220" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#9FC3D9">João Pessoa, PB · UFPB · Dataprev</text>
+  <text x="50" y="220" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#9FC3D9">João Pessoa, PB · Ciência de Dados e IA @ UFPB</text>
 </svg>

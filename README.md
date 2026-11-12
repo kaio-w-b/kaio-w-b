@@ -10,11 +10,11 @@
 
 ### 👋 Olá, eu sou o Kaio
 
-Gosto de pegar um problema real e levar a IA até onde ela é útil de verdade: com dados, métricas e código que roda fora do notebook. Na **Dataprev**, trabalho com LLMs e VLMs para extrair informações de documentos oficiais e apoiar decisões no setor público. Nos meus projetos, construo sistemas RAG avaliados com métricas de recuperação e agentes com tool calling e guardrails.
+Gosto de pegar um problema real e levar a IA até onde ela é útil de verdade: com dados, métricas e código que roda fora do notebook. Na **Dataprev**, trabalhei com LLMs e VLMs para extrair informações de documentos oficiais e apoiar decisões no setor público. Nos meus projetos, construo sistemas RAG avaliados com métricas de recuperação e agentes com tool calling e guardrails.
 
 ```python
 kaio = {
-    "agora":      "Estagiário de Ciência de Dados e IA @ Dataprev",
+    "último":     "Estagiário de Ciência de Dados e IA @ Dataprev (out/2025 a out/2026)",
     "formação":   "Ciência de Dados e IA @ UFPB (conclusão em dez/2026)",
     "foco":       ["RAG", "agentes e tool calling", "avaliação de LLMs", "MLOps"],
     "procurando": ["AI Engineer", "MLOps Engineer", "Cientista de Dados"],
@@ -34,7 +34,7 @@ kaio = {
 | [**ChurnShield**](https://github.com/kaio-w-b/ChurnShield) | Predição de churn de ponta a ponta: EDA, boosting, explicabilidade com SHAP e API de predição | Scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, FastAPI, Docker |
 | [**Haxball Genetic Agent**](https://github.com/joaopviana2004-tech/Haxball_Genetic_Agent) | Agente de Haxball com rede neural treinada por algoritmo genético e por aprendizado supervisionado (colaboração) | Python, Pygame |
 
-### 💼 Na Dataprev
+### 💼 Na Dataprev (out/2025 a out/2026)
 
 - Pipelines de extração e estruturação de informações de documentos oficiais (RG, CNH)
 - API com VLMs para identificar riscos em canteiros de obras e sugerir mitigação
